@@ -1,9 +1,8 @@
 # 1orZero.github.io
 
-## CSS Practice
+CSS Practice
 - [Natours](https://1orzero.github.io/css_1/)
 - [Trillo](https://1orzero.github.io/css_2/)
-
 
 ---
 
