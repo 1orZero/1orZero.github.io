@@ -1,3 +1,6 @@
 [submodule "css_project_1"]
 	path = css_1
 	url = https://github.com/1orZero/Natours/
+[submodule "css_2"]
+	path = css_2
+	url = https://github.com/1orZero/Trillo
