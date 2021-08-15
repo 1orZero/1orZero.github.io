@@ -4,3 +4,6 @@
 [submodule "css_2"]
 	path = css_2
 	url = https://github.com/1orZero/Trillo
+[submodule "css_3"]
+	path = css_3
+	url = https://github.com/1orZero/Nexter_practice
