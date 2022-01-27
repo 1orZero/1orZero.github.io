@@ -310,7 +310,6 @@ function hexToRgb(hex) {
 
 $(document).ready(() => {
 	$("button.execute").click(() => {
-		alert("Executing...");
 		const rgb = hexToRgb($("input.target").val());
 		if (rgb.length !== 3) {
 			alert("Invalid format!");
